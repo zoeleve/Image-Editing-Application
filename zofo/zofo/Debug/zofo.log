@@ -1,0 +1,8 @@
+﻿  FilterGamma.cpp
+  FilterLinear.cpp
+  Image.cpp
+  main.cpp
+  read_ppm.cpp
+  write_ppm.cpp
+  Generating Code...
+  zofo.vcxproj -> E:\Προγραμματισμός C++\zofo\Debug\zofo.exe
